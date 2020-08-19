@@ -1,0 +1,11 @@
+{
+  "name" : "pat_oiled",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : ["oiled.lua"],
+  "animationConfig" : "oiled.animation",
+
+  "label" : "covered in oil",
+  "icon" : "/pat/oil/oiled.png"
+}

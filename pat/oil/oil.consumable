@@ -1,0 +1,19 @@
+{
+  "itemName" : "pat_oil",
+  "rarity" : "Essential",
+  "price" : 300,
+  "tooltipKind" : "base",
+  "category" : "drink",
+	"tooltipFields" : {"subtitle" : ""},
+  "inventoryIcon" : "oil.png",
+  "description" : "2) cover yourself in oil",
+  "shortdescription" : "Oil",
+  "effects" : [ [
+    {
+        "effect" : "pat_oiled",
+        "duration" : 180
+    }
+  ] ],
+  "maxStack" : 1,
+  "emitters" : [ "pat_oiling" ]
+}

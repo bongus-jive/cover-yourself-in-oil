@@ -1,0 +1,13 @@
+{
+  "kind" : "pat_oiling",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.3,
+    "loops" : true,
+    "start" : {
+      "sounds" : [
+        [ "/sfx/gun/wormgun_burst.ogg" ]
+      ]
+    }
+  }
+}
