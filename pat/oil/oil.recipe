@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "liquidoil", "count" : 1 }
+    { "item" : "corn", "count" : 1 }
   ],
   "output" : { "item" : "pat_oil", "count" : 1 },
-  "groups" : [ "plain", "all" ]
+  "groups" : ["craftingfood", "condiments"]
 }
